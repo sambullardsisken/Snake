@@ -33,9 +33,6 @@ function play() {
 }
 
 
-
-// var interval = window.setInterval()
-
 function makeGrid() {
 	_.times(g.size, function(i) {
 		_.times(g.size, function(j) {
